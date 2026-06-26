@@ -15,7 +15,7 @@ I am a passionate developer and tech enthusiast who loves diving deep into low-l
 ###  Connect with me
 * **GitHub:** [github.com/adamcir](https://github.com/adamcir)
 * **E-Mail:** [adam.cir@adava.cz](mailto:adam.cir@adava.cz)
-* **itch.io:** [adavasoftware.itch.io](https://adavasoftware.itch.io)
+* **itch.io:** [adava-software.itch.io](https://adavasoftware.itch.io)
 
 ### Web
 * [projekty.adava.cz](https://projekty.adava.cz)
